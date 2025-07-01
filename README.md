@@ -6,7 +6,7 @@
 
 #
 
-<img align="right" height="222" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279"  />
+<img align="right" height="200" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279"  />
 
 <h3>Minha stack</h3>
 
