@@ -1,6 +1,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=jira+code&size=24&pause=1000&color=9745F5&center=true&vCenter=true&width=435&height=60&lines=Ol%C3%A1!+Eu+sou+o+Pablo+Knapp;Desenvolvedor+Full+Stack+Web" alt="Typing SVG" /></a>
 </div>
+<br />
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Universdade Senac de Pelotas. Atualmente estudando React e Typescript. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</p>
 
@@ -33,6 +34,7 @@
 #
 
 <div align="center">
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=pabloknapp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloknapp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
 </div>
