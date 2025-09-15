@@ -3,8 +3,6 @@
 </div>
 <br />
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Universdade Senac de Pelotas. Atualmente estudando React e Typescript. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</p>
-
 #
 
 <img align="right" height="220" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279"  />
