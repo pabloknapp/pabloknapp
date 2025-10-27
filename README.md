@@ -8,7 +8,7 @@
      
 </div>
 <br>
-<img align="right"src="https://assets.pokemon.com/static-assets/content-assets/cms2-pt-br/img/cards/web/SVP/SVP_PT-BR_161.png" alt="charizard card" width="215" />
+<img align="right"src="https://assets.pokemon.com/static-assets/content-assets/cms2-pt-br/img/cards/web/SVP/SVP_PT-BR_161.png" alt="charizard card" width="202" />
 <div align="center">
  <!-- Status -->
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pabloknapp&theme=gruvbox" width="201" />
